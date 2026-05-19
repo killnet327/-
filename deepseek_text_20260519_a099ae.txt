@@ -1,0 +1,4 @@
+random-wishes/
+├── index.html          (ваш сайт с пожеланиями)
+├── README.md           (описание проекта для GitHub)
+└── .gitattributes      (настройки для правильного отображения)
